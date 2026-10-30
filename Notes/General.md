@@ -1,0 +1,1 @@
+- RISC-V commonly uses 5 stage single cycle logic. ![[Pasted image 20261030191107.png]]
